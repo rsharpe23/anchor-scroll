@@ -1,2 +1,2 @@
 # anchor-scroll
-See demo: https://rsharpe-blog.ru/projects/anchor-scroll/
+See demo: https://rsharpe23.github.io/portfolio/anchor-scroll/
